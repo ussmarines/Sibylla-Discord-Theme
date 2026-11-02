@@ -17,7 +17,7 @@
     "author": "ussmarines",
     "license": "MIT",
     "devDependencies": {
-        "postcss": "8.5.31"
+        "postcss": "8.5.32"
     },
     "description": "Sibylla Discord workspace with North Polar, North Snow, Spatial and Tokyo-night flavors",
     "private": true,
